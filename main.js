@@ -1,1 +1,3 @@
-console.log('hola mundo')
+import { User } from "./entity"
+
+let user = new User()
